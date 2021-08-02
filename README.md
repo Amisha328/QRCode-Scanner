@@ -35,3 +35,10 @@
 - `Git`
 - `GitHub`
 
+## Setting up project
+
+1. Fork this project by clicking the Fork button on top right corner of this page.
+
+2. Clone the repository by running following command in git:
+
+   `$ git clone https://github.com/[YOUR-USERNAME]/QRCode-Scanner.git`
