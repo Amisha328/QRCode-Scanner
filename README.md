@@ -13,3 +13,13 @@
 `Step 3:`  The QR code result will appear in text below.
  
 `Step 4:`  Click on the returned value (link) to view in browser.
+
+## Screenshots of the application
+
+### 1. Main Page 
+
+<table>
+        <tr> 
+        <td><img src = "screenshots/first_page.jpeg"  width="250"></td>
+        </tr>
+ </table>
