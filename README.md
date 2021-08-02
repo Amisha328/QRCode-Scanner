@@ -24,4 +24,14 @@
         </tr>
  </table>
  
- 
+## Technology
+
+- `JAVA` for back-end
+- `XML` for front-end
+
+## Tools
+
+- `Android Studio`
+- `Git`
+- `GitHub`
+
