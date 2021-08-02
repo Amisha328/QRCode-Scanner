@@ -16,10 +16,11 @@
 
 ## Screenshots of the application
 
-### 1. Main Page 
-
 <table>
         <tr> 
-        <td><img src = "screenshots/first_page.jpeg"  width="250"></td>
+         <td>1. Main Page </br></br> <img src = "screenshots/first_page.jpeg"  width="250"></td>
+         <td>2. Scanning Code </br></br><img src = "screenshots/scan_code.jpeg"  width="250"></td>
         </tr>
  </table>
+ 
+ 
